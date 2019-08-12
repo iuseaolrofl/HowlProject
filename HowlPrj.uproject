@@ -12,5 +12,8 @@
 			"Name": "VolumetricClouds",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
